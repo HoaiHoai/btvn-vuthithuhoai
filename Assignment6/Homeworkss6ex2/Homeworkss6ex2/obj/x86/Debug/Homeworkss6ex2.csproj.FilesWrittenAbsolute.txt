@@ -1,0 +1,5 @@
+/Users/owner/Projects/Homeworkss6ex2/Homeworkss6ex2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/owner/Projects/Homeworkss6ex2/Homeworkss6ex2/bin/Debug/Homeworkss6ex2.exe.mdb
+/Users/owner/Projects/Homeworkss6ex2/Homeworkss6ex2/bin/Debug/Homeworkss6ex2.exe
+/Users/owner/Projects/Homeworkss6ex2/Homeworkss6ex2/obj/x86/Debug/Homeworkss6ex2.exe
+/Users/owner/Projects/Homeworkss6ex2/Homeworkss6ex2/obj/x86/Debug/Homeworkss6ex2.exe.mdb

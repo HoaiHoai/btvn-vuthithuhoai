@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Homeworkss6/Homeworkss6.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Homeworkss6ex2/Homeworkss6ex2/Program.cs">
+    <Files>
+      <File FileName="../Homeworkss6ex2/Homeworkss6ex2/Program.cs" Line="3" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
